@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Amit",
+    "age": 28,
+    "gender": "Male",
+    "department": "IT",
+    "salary": 56000
+  },
+  {
+    "id": 2,
+    "name": "Sneha",
+    "age": 34,
+    "gender": "Female",
+    "department": "HR",
+    "salary": 45000
+  },
+  {
+    "id": 3,
+    "name": "Rahul",
+    "age": 26,
+    "gender": "Male",
+    "department": "Sales",
+    "salary": 38000
+  },
+  {
+    "id": 4,
+    "name": "Priya",
+    "age": 41,
+    "gender": "Female",
+    "department": "Marketing",
+    "salary": 62000
+  },
+  {
+    "id": 5,
+    "name": "Vikram",
+    "age": 37,
+    "gender": "Male",
+    "department": "Finance",
+    "salary": 58000
+  }
+]
